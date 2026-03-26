@@ -41,12 +41,12 @@ Our team operates under the core values of **Courage** to face technical challen
 ## 4. Technical Architecture and Progress
 The system is divided into three fundamental engineering pillars. Below is the progress achieved as of the Midterm Milestone:
 
-### 4.1 Mechanical Engineering
+### 4.1 Mechanical tasks
 * **Claw and Pulley Design:** Developed functional 3D designs for the mechanical gripping system.
 * **Component Housing:** Finalized the protective enclosure to integrate all onboard electronics.
 * **Prototyping:** Successful manufacturing of the primary mechanical components for the first prototype.
 
-### 4.2 Electrical and Software Integration
+### 4.2 Electrical and Software tasks
 * **RF Setup:** Established a stable communication link between the Transmitter (Command) and the Receiver.
 * **System Logic:** Implementation of the electrical diagram, managing 5V output controls for motor drivers.
 * **Power Management:** Integration of the battery and receiver units within the system logic.
