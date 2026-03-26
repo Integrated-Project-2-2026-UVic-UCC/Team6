@@ -62,7 +62,7 @@ The project is transitioning from component-level testing to full system integra
 * Validation of the electrical control circuit.
 
 ### 5.2 Challenges Addressed (Job Stoppers)
-* **LoRa Modules:** Resolved configuration issues to ensure signal reliability.
+* **LoRa Modules:** Problems at the time to establish communication with modules.
 * **Procurement:** Managed minor delays in the component supply chain.
 
 ### 5.3 Next Steps
