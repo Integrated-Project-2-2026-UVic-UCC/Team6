@@ -1,4 +1,4 @@
-# Drone Cable Routing Accessory: Comprehensive Project Documentation
+# Drone Cable Routing Accessory: Project Documentation
 
 **Institution:** Universitat de Vic – Universitat Central de Catalunya  
 **Course:** Integrated Project II  
